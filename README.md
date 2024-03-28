@@ -11,6 +11,8 @@
 
 ### Mobile
 
+<img src="https://github.com/younessbennaj/business-blog-card/assets/18486062/10ac2d6a-2fdc-4454-a762-56567482347a" alt="image" width="300" height="auto">
+
 ### Built With
 
 * HTML
